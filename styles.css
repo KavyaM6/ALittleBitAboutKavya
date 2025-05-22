@@ -67,8 +67,8 @@ body {
 }
 
 .experience ul {
-    margin-top: 0; /* Remove extra space above the list */
-    padding-top: 0; /* Remove extra internal space */
+    margin-top: 0;
+    padding-top: 0;
     margin-bottom: 0;
     text-align: left;
 }
